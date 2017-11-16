@@ -16,13 +16,16 @@ body {
     margin: 0 auto;
     padding: 0 80px;
     max-width: 900px; }
+    @media screen {
+      body .images {
+        padding: 0 16px; } }
     body .images img {
       border-radius: 8px;
       text-align: center;
       width: 100%;
       height: auto;
       margin-top: 80px;
-      box-shadow: 0 0 30px rgba(0, 0, 0, 0.2); }
+      box-shadow: 0 0 30px rgba(0, 0, 0, 0.1); }
   body .date {
     margin-top: 80px;
     margin-bottom: 40px;
