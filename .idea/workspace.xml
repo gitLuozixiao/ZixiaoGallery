@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd695c53-c082-4bbf-a7bd-05adc6b8ac93" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bootpage_community.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/communityBootPages.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/coffee.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coffee.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Gallery.iws" />
@@ -46,11 +46,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="communityBootPages.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="communityBootPages.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/communityBootPages.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+              <caret line="21" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="coffee.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/coffee.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -85,6 +95,7 @@
         <option value="$PROJECT_DIR$/space.html" />
         <option value="$PROJECT_DIR$/gameUI.html" />
         <option value="$PROJECT_DIR$/communityBootPages.html" />
+        <option value="$PROJECT_DIR$/coffee.html" />
       </list>
     </option>
   </component>
@@ -115,7 +126,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,7 +143,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -235,11 +246,12 @@
       <workItem from="1511344927675" duration="1000" />
       <workItem from="1511424630571" duration="193000" />
       <workItem from="1512026487423" duration="127000" />
+      <workItem from="1512464411596" duration="212000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9597000" />
+    <option name="totallyTimeSpent" value="9809000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="-411" width="2048" height="1125" extended-state="0" />
@@ -282,6 +294,30 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/space.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="34" lean-forward="false" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gameUI.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/communityBootPages.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/space.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -424,7 +460,15 @@
     <entry file="file://$PROJECT_DIR$/communityBootPages.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <caret line="21" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coffee.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
           <folding />
         </state>
       </provider>
