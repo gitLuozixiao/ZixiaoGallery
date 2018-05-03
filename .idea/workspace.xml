@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd695c53-c082-4bbf-a7bd-05adc6b8ac93" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/microchip.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="cd695c53-c082-4bbf-a7bd-05adc6b8ac93" name="Default" comment="" />
     <ignored path="Gallery.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -144,8 +141,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -296,11 +293,12 @@
       <workItem from="1520243955601" duration="73000" />
       <workItem from="1522225253816" duration="10000" />
       <workItem from="1523326724295" duration="921000" />
+      <workItem from="1523961028142" duration="1000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14267000" />
+    <option name="totallyTimeSpent" value="14268000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="-411" width="2048" height="1129" extended-state="6" />
